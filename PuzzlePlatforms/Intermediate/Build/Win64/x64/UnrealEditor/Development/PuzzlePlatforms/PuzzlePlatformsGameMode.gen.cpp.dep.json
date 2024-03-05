@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\uetutmp\\puzzleplatforms\\intermediate\\build\\win64\\unrealeditor\\inc\\puzzleplatforms\\uht\\puzzleplatformsgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\uetutmp\\puzzleplatforms\\intermediate\\build\\win64\\x64\\puzzleplatformseditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\uetutmp\\puzzleplatforms\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\puzzleplatforms\\definitions.puzzleplatforms.h",
+            "d:\\uetutmp\\puzzleplatforms\\source\\puzzleplatforms\\puzzleplatformsgamemode.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\unreal\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\unreal\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\uetutmp\\puzzleplatforms\\intermediate\\build\\win64\\unrealeditor\\inc\\puzzleplatforms\\uht\\puzzleplatformsgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

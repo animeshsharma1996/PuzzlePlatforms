@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UETutMP\\PuzzlePlatforms\\Source\\PuzzlePlatforms\\PuzzlePlatforms.Build.cs",
+		"D:\\UETutMP\\PuzzlePlatforms\\Source\\PuzzlePlatforms.Target.cs",
+		"D:\\UETutMP\\PuzzlePlatforms\\Source\\PuzzlePlatformsEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PuzzlePlatforms.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\PuzzlePlatformsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\PuzzlePlatforms.init.gen.cpp.obj"
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.gen.cpp.obj"
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.gen.cpp.obj"
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\PuzzlePlatforms.cpp.obj"
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\PuzzlePlatformsCharacter.cpp.obj"
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\PuzzlePlatformsGameMode.cpp.obj"
+"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\Default.rc2.res"
+/OUT:"D:\UETutMP\PuzzlePlatforms\Intermediate\Build\Win64\x64\UnrealEditor\Development\PuzzlePlatforms\UnrealEditor-PuzzlePlatforms.lib"
